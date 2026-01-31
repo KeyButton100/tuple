@@ -1,0 +1,11 @@
+t=()
+print(t)
+c=(19,87,908,3,33,2122)
+print(c)
+c=(1,[1,2],3)
+z=("bob",26, "home", 87.0)
+name, age, adress, marks=z
+print(z)
+p=("🕹️","🤔","💸","🤖")
+print(p)
+p.append("💻")
